@@ -5,4 +5,4 @@ Juego de Othello implementando con la idea de jugador vs máquina, con el objeti
 
 #----------------------
 
-<img src="imagen/Othello_Ingame#2.PNG" width="500" >
+<img src="imagen/Othello_Ingame2.png" width="500" >
