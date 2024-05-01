@@ -59,7 +59,7 @@ def empezar_juego(ventanaconfig, tamaño_tablero, metodo_maquina):
     print("Método elegido para la máquina:",metodo_maquina)
     # Crear la ventana del juego
     ventana_juego = tk.Tk()
-    ventana_juego.title("Othelo")
+    ventana_juego.title("Othello")
     ventana_juego.resizable(False, False)
     ventana_juego.update_idletasks()
     # Crear un menú "Opciones"
