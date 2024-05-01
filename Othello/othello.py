@@ -294,7 +294,6 @@ def movimientoProlog():
     # Consulta Prolog
     global Mov_Cpu, Mov_Jugador, Juego_Fin
    
-    #time.sleep(0.9)
     consulta = "mejor_movimiento('negro', Movimiento)"
     # Realizar la consulta
     resultados = list(prolog.query(consulta))
